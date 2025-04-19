@@ -1,0 +1,1 @@
+This project logs temperature, humidity, and distance sensor data using an STM32 microcontroller. Data is collected in real-time from a DHT11 and ultrasonic sensor, stored in SPI flash memory (SST25VF080B) using AAI (Auto Address Increment) mode, and then read back and printed over UART in a human-readable format.
